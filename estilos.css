@@ -1,0 +1,109 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0px;
+	border: 0px;
+	padding: 0px;
+}
+body{
+    background-color: rgba(179,181,247,1.00);
+		background-image: url("img/borde.jpg");
+	background-repeat: repeat-x;
+	padding-top:142px;
+	
+	
+}
+#contenedor{
+	    width: 900px;
+    	height: auto;
+   	 	margin: auto;
+	background-color:rgba(50,53,148,1.00);
+	padding-bottom: 20px;
+
+	   
+
+}
+h1{
+    color: rgba(255,255,255,1.00);
+    text-align: center;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 50px;
+    font-weight: 600;
+    text-decoration: none;
+    text-transform: capitalize;
+    margin-top: 20px;
+    margin-bottom: 100px;
+	
+}
+h2{
+	color: rgba(255,253,253,1.00);
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    text-decoration: none;
+    text-transform: capitalize;
+	margin-top: 20px;
+    margin-left: 50px;
+	margin-right: auto;
+	margin-bottom: 20px;
+}
+h3{
+	color: rgba(255,253,253,1.00);	
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: capitalize;
+	margin-top: 20px;
+    margin-left: 50px;
+	margin-right: auto;
+	margin-bottom: 20px;
+}
+h4{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    font-weight: 50;
+	margin-top: 20px;
+    margin-left: 50px;
+
+
+}
+p{
+    color: rgba(255,253,253,1.00);
+    font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+    font-size: 15px;
+    font-weight: 100;
+    text-decoration: none;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    text-align: justify;	
+}
+a{
+	color: 
+rgba(158,211,244,1.00)}
+img{
+     display: block;
+	 margin:auto;	
+}
+ul{
+	margin-top: 20px;
+    margin-left: 70px;
+    margin-bottom: 20px;
+}
+li{
+	list-style-image: url("img/viñeta.jpg");
+}
+#pie{
+	line-height: 30px;
+    background-color: rgba(27,224,236,0.30);
+    color: rgba(255,255,255,1.00);
+    text-align: center;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: 15px;
+	font-weight: 600;
+	 width: 900px;
+    height: auto;
+	margin:auto;
+}
+	
